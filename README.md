@@ -5,7 +5,7 @@ Esta API Spring Boot foi desenvolvida para gerenciar a venda de salgados, inclui
 ## Tecnologias Utilizadas
 - **Java 17**
 - **Spring Boot 3.3.5**
-- **JPA/Hibernate **
+- **JPA/Hibernate**
 - **Banco de Dados H2**
 - **Lombok**
 
